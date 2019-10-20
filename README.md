@@ -2,7 +2,7 @@
 A collection of awesome things regarding the upcoming Windows Terminal.
 
 - [General Resources](#windows-terminal-general-resources)
-- [Tips & Tutorial](#tutorial)
+- [Tips & Tricks](#tipsandtricks)
 - [Appearance](#appearance)
 - [Configuration](#configuration)
 - [Community](#windows-terminal-community)
@@ -14,11 +14,10 @@ A collection of awesome things regarding the upcoming Windows Terminal.
 - [Official blog & update history](https://devblogs.microsoft.com/commandline/)
 - [Official repository/source code](https://github.com/microsoft/terminal)
 - [Official introduction video](https://www.youtube.com/watch?v=8gw0rXPMMPE)
-
-https://devblogs.microsoft.com/commandline/introducing-windows-terminal/
 - [Pros & Cons](https://www.theregister.co.uk/2019/06/25/microsofts_new_terminal_put_through_paces/)
 
-#### Tips & Tutorial
+#### Tips & Tricks
+- [Usage with WSL & Visual Studio Code](https://devblogs.microsoft.com/commandline/tips-and-tricks-for-linux-development-with-wsl-and-visual-studio-code/)
 - [Usage with WSL & PowerShell](https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/)
 
 #### Appearance
