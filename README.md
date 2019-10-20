@@ -6,7 +6,6 @@ A collection of awesome things regarding the upcoming Windows Terminal.
 - [Appearance](#appearance)
 - [Configuration](#configuration)
 - [Community](#windows-terminal-community)
-- [Plugins & Extensions](#plugins-and-extensions)    
 
 ### Windows Terminal 👨🏼‍💻
 > "Windows Terminal is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more."
@@ -15,13 +14,13 @@ A collection of awesome things regarding the upcoming Windows Terminal.
 - [Official repository/sourcode](https://github.com/microsoft/terminal)
 
 #### Tips & Tutorial
-- [Official repository/sourcode](https://github.com/microsoft/terminal)
+- [Tips & Tutorial](...)
 
 #### Appearance
-- [Tips & Tutorial](...)
+- [Appearance](...)
 
 #### Configuration
 - [Configuration](...)
 
 #### Community
-- [Plugins & Extensions](...)
+- [Community](...)
