@@ -19,9 +19,10 @@ A collection of awesome things regarding the upcoming Windows Terminal.
 #### Tips & Tricks
 - [Usage with WSL & PowerShell](https://devblogs.microsoft.com/commandline/integrate-linux-commands-into-windows-with-powershell-and-the-windows-subsystem-for-linux/)
 - [Usage with WSL & Visual Studio Code](https://devblogs.microsoft.com/commandline/tips-and-tricks-for-linux-development-with-wsl-and-visual-studio-code/)
+- [How to Customize the New Windows Terminal App](https://www.howtogeek.com/426346/how-to-customize-the-new-windows-terminal-app/)
 
 #### Appearance
-- [Background, key bindings, color scheme](https://www.howtogeek.com/426346/how-to-customize-the-new-windows-terminal-app/)
+- [Skyline Windows Terminal ColorScheme](https://github.com/Microflash/skyline-windows-terminal-colorscheme): A vibrant color scheme for Windows Terminal
 
 #### Configuration
 - [Configuration](...)
