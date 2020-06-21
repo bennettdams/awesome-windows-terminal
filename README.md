@@ -22,6 +22,7 @@ A collection of awesome things regarding the upcoming Windows Terminal.
 
 #### Appearance
 - [Background, key bindings, color scheme](https://www.howtogeek.com/426346/how-to-customize-the-new-windows-terminal-app/)
+- [Colour Theme Explorer](https://github.com/atomcorp/themes)
 
 #### Configuration
 - [Configuration](...)
